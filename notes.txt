@@ -1,0 +1,4 @@
+
+
+Player must touch same object
+For every jump player got score points
